@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-just add anything here!
+anything you want!
 =======
 This is my first file.
 >>>>>>> features
