@@ -1,0 +1,188 @@
+    2  git --version
+    3  git config --global user.name "honghan(Lucas)"
+    4  git config --global user.email lucaswang718@gmail.com
+    5  git config --list
+    6  git config --global core.editor "code --wait"
+    7  git config --global init.defaultBranch main 
+    8  git config --list
+   10  cd git-practice
+   12  git status 
+   13  git-practice-honghan(Lucas)
+   14  git config --global user.name "lucas"
+   15  git-practice-lucas
+   16  cd git-practice-lucas
+   19  cd git-practice-lucas
+   24  cd git-practice-lucas
+   25  git status
+   26  git init
+   29  cd git-practice-lucas
+   32  git status
+   34  git add file1.txt
+   35  git status
+   36  git commit -m 'Add file1.txt'
+   38  git status
+   39  git add file2.txt
+   40  git status
+   41  git status
+   42  git commit -m 'add file2.txt'
+   43  git status
+   44  touch .gitignore
+   45  git add .
+   46  git commit -m 'Add gitignore"
+   47  git commit -m 'Add gitignore'
+   48  git status
+   49  $git status
+   51  git status
+   53  cd git-practice-lucas
+   54  git status
+   55  git commit -m 'Add .gitignore'
+   56  git status 
+   57  commit -m 'Add gitignore quote>'
+   58  git add .
+   59  git commit -m 'Update gitignore file'
+   61  git status
+   63  git status
+   64  git add file3.txt
+   65  git status
+   67  cd git-practice-lucas
+   76  mkdir vscode-git
+   77  cd vscode-git
+   80  cd git-pracrice-lucas 
+   81  cd git-practice-lucas
+   89  git remote add origin <git@github.com:LucasW-BYU/git-practic-lucas.git>
+   90  git remote add origin git@github.com:LucasW-BYU/git-practic-lucas.git
+   91  git push -u origin main
+   92  git push
+   93  git push -u origin main
+   94  git push
+   95  git remote -v
+   96  git clone https://github.com/LucasW-BYU/git-practice-KetherineWang.git
+   97  git branch
+   98  git branch feature-Lucaswang
+   99  git branch
+  100  git switch feature-Lucaswang
+  101  git switch LucasW-BYU
+  102  git branch -m<feature-Lucaswang><LucasW-BYU>
+  103  git branch -m<LucasW-BYU>
+  104  git branch -m LucasW-BYU
+  105  git branch
+  106  git branch -m feature-LucasW-BYU
+  107  git branch 
+  109  cd git-practice-KetherineWang
+  113  git add .
+  115  git commit -m"fork-new-file.txt"
+  116  git push origin feature-LucasW-BYU
+  117  git branch
+  121  cd git-practice-KetherineWang
+  122  git branch
+  123  git branch feature-LucasW-BYU
+  124  git switch feature-LucasW-BYU
+  125  git branch
+  126  git add .
+  127  git push origin feature-LucasW-BYU
+  128  git cd ..
+  130  cd git-practice-lucas
+  132  git statu
+  133  git status
+  135  git add .
+  136  git status
+  137  git commit -m"file1.txt"
+  138  git commit -m"file2.txt"
+  139  git commit =m"file3.txt"
+  140  git commit -m"file3.txt"
+  146  git add .
+  147  git commit -m"readme.md"
+  148  git status 
+  149  git status 
+  150  git add .
+  151  git commit -m"api-keys.txt"
+  152  git branch
+  153  git branch features
+  155  git checkout features
+  157  git add .
+  158  git add new_features.txt
+  159  git commit -m"add empty file"
+  160  git branch 
+  161  git checkout features
+  162  git add .
+  163  git push origin features
+  164  git checkout main 
+  165  git branch 
+  166  git status 
+  168  git add file 1 .txt 
+  169  git add file_1.txt 
+  170  git add file1.txt
+  171  git commit -m"just add a new line to file1.txt"
+  172  git checkout main 
+  173  git pull origin main 
+  174  git merge features 
+  175  git add .
+  176  git commit
+  177  git push origin main
+  181  git status 
+  183  git add file1.txt
+  184  git commit -m"Added this is my first file to file1.txt"
+  185  git add file2.txt
+  186  git commit -m"added this is my second file to file2.txt"
+  187  git status 
+  188  git log 
+  190  cd git-practice-lucas
+  191  git log 
+  193  cd git-practice-bit
+  194  cd git-practice-git
+  195  cd git-practice-lucas
+  196  git branch 
+  197  git checkout features
+  198  git log 
+  200  cd git-practice-lucas
+  201  git checkout features
+  203  git add.
+  204  git add .
+  205  git add new_features.txt
+  206  git commit -m"added the file will have some new features to new_features.tct"
+  207  git checkout main
+  208  git status
+  213  git checkout features
+  215  git log 
+  216  git checkout features
+  217  git add new_features.txt
+  219  git checkout features
+  220  git log 
+  221  git commit -m"add empty file to new_features.txt"
+  222  git add .
+  223  git status
+  224  git commit -m"add empty file to new_features.txt"
+  226  git add .
+  227  git commit
+  228  git log 
+  229  git checkout main
+  231  git main branch
+  234  cd git-practice-lucas
+  235  git status
+  236  git checkout features
+  237  git checkout main
+  238  git branch
+  242  git add.
+  243  git add .
+  244  git commit -m"added anything you want to file1.txt"
+  246  git merge geatures
+  247  git merge features
+  249  git add. new_feature.txt
+  250  git add new_feature.txt
+  251  git commit -m"added no new features will be created to new_feature.txt"
+  252  git checkout features
+  254  git checkout main 
+  255  git add.
+  256  git add .
+  257  git commit -m"addded this file has some new text to new_features.txt"
+  258  git checkout main
+  259  git merge features
+  260  git add.
+  261  git add .
+  262  git commit -m"merge"
+  263  git branch -d features
+  264  git push -u origin main
+  265  git pull origin main 
+  266  git status
+  267  git log --oneline > gitlog.txt
+  269  history | grep git > history.txt

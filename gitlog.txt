@@ -1,0 +1,20 @@
+b171b44 merge
+df0e6c2 addded this file has some new text to new_features.txt
+ebd935e added no new features will be created to new_feature.txt
+86c8fc7 Merge branch 'features' Merge features into main
+d1870a2 added anything you want to file1.txt
+facaf19 add empty file to new_features.txt
+a50f406 added the file will have some new features to new_features.tct
+48fff80 added this is my second file to file2.txt
+4b2679e Merge branch 'features'
+6a4161a Merge branch 'main' of github.com:LucasW-BYU/git-practic-lucas
+2ea39ae just add a new line to file1.txt
+3b3080b add empty file
+a65178c readme.md
+e68dd85 file1.txt
+0c3eda5 Merge pull request #1 from KetherineWang/feature-KetherineWang
+b6fceaa fileKetherineWang.txt created
+20d62b1 Update gitignore file
+1ca1563 Add .gitignore
+b3a6255 add file2.txt
+d77bca1 Add file1.txt
